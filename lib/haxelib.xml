@@ -2,5 +2,5 @@
     <user name="ADA_Funni"/>
     <tag v="ui"/>
     <description>UI framework used in Psych Engine, but as a Haxelib library! (Code from https://github.com/ShadowMario/FNF-PsychEngine)</description>
-    <version name="1.0.2">Fixed images.</version>
+    <version name="1.0.3">There we go, images should actually work now.</version>
 </project>

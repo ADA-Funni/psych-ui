@@ -1,4 +1,4 @@
 -neko psychUITest.n
 -main Test
--cp lib
--cp tests
+-cp psych
+-p assets
