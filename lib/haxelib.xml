@@ -1,0 +1,6 @@
+<project name="psych-ui" url="https://github.com/ADA-Funni/psych-ui" license="BSD">
+    <user name="ADA-Funni"/>
+    <tag v="ui"/>
+    <description>UI framework used in Psych Engine, but as a Haxelib library! (Code from https://github.com/ShadowMario/FNF-PsychEngine)</description>
+    <version name="1.0.0">Init.</version>
+</project>
