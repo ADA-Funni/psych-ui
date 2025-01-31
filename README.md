@@ -6,7 +6,7 @@ UI framework used in Psych Engine, but as a Haxelib library! (Code from https://
 Installation
 ======
 
-Install through `haxelib install psych-ui`
+Install through `haxelib git psych-ui https://github.com/ADA-Funni/psych-ui.git`
 
 License
 =======
