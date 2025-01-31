@@ -7,6 +7,7 @@ Installation
 ======
 
 Install through `haxelib git psych-ui https://github.com/ADA-Funni/psych-ui.git`
+Then add the `assets/ui` folder to your project in `assets/ui`
 
 License
 =======
