@@ -14,5 +14,7 @@ import flixel.tweens.FlxTween;
 import flixel.util.FlxColor;
 import flixel.util.FlxTimer;
 
+import psych.ui.Paths; // Failsafe class
+
 using StringTools;
 #end

@@ -4,8 +4,8 @@
   "tags": ["ui"],
   "description": "UI framework used in Psych Engine, but as a Haxelib library! (Code from https://github.com/ShadowMario/FNF-PsychEngine)",
   "contributors": ["ADA_Funni"],
-  "releasenote": "Init.",
-  "version": "1.0.0",
+  "releasenote": "Fixed images.",
+  "version": "1.0.1",
   "url": "https://github.com/ADA-Funni/psych-ui",
   "dependencies": {
     
